@@ -16,12 +16,15 @@ Is obviously a style sheet for syllabi.
 
 ## Google provides lots of web fonts.
 
-To use them, go to fonts.google.com. select a font. use google's code to embed it in your style sheet. proceed with pandoc as usual.
+To use them, go to fonts.google.com. select a font. link to it in web page.
+set it as a font in your style sheet.
 
 ### for example
 
-Use the google generated `@import ;` at the top of the stylesheet to import the fonts. Use the google generated font family line within the style sheet to select the imported font.
+Miss fajardose.
 
-for example:
+<link href="https://fonts.googleapis.com/css?family=Miss+Fajardose" rel="stylesheet">
+
+Use the following CSS rules to specify these families:
 
 font-family: 'Miss Fajardose', cursive;

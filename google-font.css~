@@ -1,6 +1,4 @@
-/*
- *  * I add this to html files generated with pandoc.
- *   */
+@import url('https://fonts.googleapis.com/css?family=Miss+Fajardose');
 
 html {
 	  font-size: 100%;
@@ -11,7 +9,7 @@ html {
 
 	body {
 		  color: #444;
-		  font-family: 'Roboto Slab', serif;
+		  font-family: 'Miss Fajardose', serif;
 		      font-size: 12px;
 		        line-height: 1.7;
 			  padding: 1em;
